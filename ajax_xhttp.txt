@@ -1,0 +1,2 @@
+<h1>AJAX</h1>
+<p>hi, you are now in ajax</p>
